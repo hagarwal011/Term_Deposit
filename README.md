@@ -8,8 +8,6 @@ This project involves analyzing a bank marketing campaign dataset and using logi
 The dataset consists of:
 - ** Train Data (`train (1).csv`)**: Used to train the logistic regression model.
 - ** Test Data (`test (1).csv`)**: Used to make predictions.
-- ** Predictions (`predictions.csv`)**: The final output containing predicted labels for the test dataset.
-- ** Additional Data (`1162.csv`)**: (Purpose to be clarified)
 
 ###  Features
 - ** Numerical Features**: `age`, `balance`, `day`, `duration`, `campaign`, `pdays`, `previous`
@@ -41,6 +39,7 @@ The dataset consists of:
 - ** `EDA.ipynb`** – Jupyter notebook for Exploratory Data Analysis (EDA)
 - ** `Predictions.ipynb`** – Jupyter notebook for making predictions using the trained model
 - ** `README.md`** – Documentation file explaining the project
+- ** `1162.pdf`** - PDF file exported from the Power BI for Dashboard to provide insights into the data
 
 ##  Performance Metrics
 - ** Accuracy**: Measures the percentage of correctly predicted instances.
@@ -56,10 +55,13 @@ The dataset consists of:
 -  Explore deep learning techniques for better predictions.
 
 ##  Dependencies
--  Python 3.x
+-  Python
 -  Pandas
 -  NumPy
 -  Scikit-learn
+-  seaborn
+-  matplotlib
+-  Power BI
 
 ##  How to Run
 1. Install dependencies using:
@@ -75,6 +77,9 @@ The dataset consists of:
 ##  Output File
 - `📄 predictions.csv`: Contains the predicted values for the test dataset.
 
+## Video Presentation
+- Video Link - [https://drive.google.com/file/d/1AfqPT70K4Q0eWk5XsirfhAUms4sQYuDZ/view?usp=sharing](url)
+
 ## 💬 Feedback
 We welcome feedback and suggestions for improving this project! Feel free to contribute by:
 - Reporting issues or bugs 
@@ -83,12 +88,12 @@ We welcome feedback and suggestions for improving this project! Feel free to con
 - Sharing your thoughts 
 
 For any feedback, please reach out via email:
-- Harsh Agarwal :	agarwal.harsh.2451513@gmail.com
-- Siva Maruthi  : sivamaruthi590@gmail.com
-- Shivangi Rai	 : raishivangi943@gmail.com
+- Harsh Agarwal :	[agarwal.harsh.2451513@gmail.com](url)
+- Siva Maruthi  : [sivamaruthi590@gmail.com](url)
+- Shivangi Rai	 : [raishivangi943@gmail.com](url)
 
 ## 👥 Authors
-Developed by **Harsh Agarwal** and **Siva Maruthi** and **Shivangi Rai**. 
+Developed by **Harsh Agarwal**, **Siva Maruthi** and **Shivangi Rai**. 
 
 
 
