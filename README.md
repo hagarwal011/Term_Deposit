@@ -6,10 +6,10 @@ This project involves analyzing a bank marketing campaign dataset and using logi
 
 ##  Dataset Description
 The dataset consists of:
-- **📄 Train Data (`train (1).csv`)**: Used to train the logistic regression model.
-- **📄 Test Data (`test (1).csv`)**: Used to make predictions.
-- **📄 Predictions (`predictions.csv`)**: The final output containing predicted labels for the test dataset.
-- **📄 Additional Data (`1162.csv`)**: (Purpose to be clarified)
+- ** Train Data (`train (1).csv`)**: Used to train the logistic regression model.
+- ** Test Data (`test (1).csv`)**: Used to make predictions.
+- ** Predictions (`predictions.csv`)**: The final output containing predicted labels for the test dataset.
+- ** Additional Data (`1162.csv`)**: (Purpose to be clarified)
 
 ###  Features
 - ** Numerical Features**: `age`, `balance`, `day`, `duration`, `campaign`, `pdays`, `previous`
@@ -34,16 +34,16 @@ The dataset consists of:
    - Save predictions to `predictions.csv`.
 
 ##  Project Files
-- **📄 `train (1).csv`** – Training dataset
-- **📄 `test (1).csv`** – Test dataset
-- **📄 `predictions.csv`** – Model predictions
-- **📄 `1162.csv`** – Additional data (purpose to be clarified)
-- **📊 `EDA.ipynb`** – Jupyter notebook for Exploratory Data Analysis (EDA)
-- **📝 `Predictions.ipynb`** – Jupyter notebook for making predictions using the trained model
-- **📖 `README.md`** – Documentation file explaining the project
+- ** `train (1).csv`** – Training dataset
+- ** `test (1).csv`** – Test dataset
+- ** `predictions.csv`** – Model predictions
+- ** `1162.csv`** – Additional data (purpose to be clarified)
+- ** `EDA.ipynb`** – Jupyter notebook for Exploratory Data Analysis (EDA)
+- ** `Predictions.ipynb`** – Jupyter notebook for making predictions using the trained model
+- ** `README.md`** – Documentation file explaining the project
 
 ##  Performance Metrics
-- **✔ Accuracy**: Measures the percentage of correctly predicted instances.
+- ** Accuracy**: Measures the percentage of correctly predicted instances.
 - ** Confusion Matrix**: Provides insights into true positives, false positives, true negatives, and false negatives.
 - ** Precision & Recall**: Evaluates the model’s ability to minimize false positives and false negatives.
 - ** F1 Score**: Balances precision and recall for an overall model assessment.
