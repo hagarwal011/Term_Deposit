@@ -1,5 +1,5 @@
 
-#  Bank Marketing Campaign Analysis
+# 🚀 Bank Marketing Campaign Analysis 🏦
 
 ##  Project Overview
 This project involves analyzing a bank marketing campaign dataset and using logistic regression to predict whether a client will subscribe to a term deposit. The dataset contains customer demographics, financial attributes, and previous campaign interactions.
