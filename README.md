@@ -65,13 +65,15 @@ The dataset consists of:
    ```sh
    pip install pandas numpy scikit-learn
 2.Run the script:
-
-  python script.py
-  
+   python script.py
 3. The output predictions will be saved in predictions.csv.
+
 <span style="color:#2196F3">Output File</span>
-predictions.csv: Contains the predicted values for the test dataset.
+
+- predictions.csv: Contains the predicted values for the test dataset.
+  
 <span style="color:#2196F3">Feedback</span>
+
 We welcome feedback and suggestions for improving this project! Feel free to contribute by:
 
 - Reporting issues or bugs
