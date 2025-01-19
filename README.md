@@ -65,9 +65,6 @@ The dataset consists of:
    ```sh
    pip install pandas numpy scikit-learn
 2.Run the script:
-sh
-Copy
-Edit
 python script.py
 3. The output predictions will be saved in predictions.csv.
 <span style="color:#2196F3">Output File</span>
