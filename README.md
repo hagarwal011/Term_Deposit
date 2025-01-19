@@ -82,10 +82,10 @@ We welcome feedback and suggestions for improving this project! Feel free to con
 - Enhancing documentation 📖
 - Sharing your thoughts 💬
 
-For any feedback, please reach out via email at **agarwal.harsh.2451513@gmail.com** or GitHub Issues. 🚀
+For any feedback, please reach out via email at **agarwal.harsh.2451513@gmail.com** or GitHub Issues. 
 
 ## 👥 Authors
-Developed by **Harsh Agarwal** and **Siva Maruthi**. 🚀
+Developed by **Harsh Agarwal** and **Siva Maruthi** and **Shivangi Rai**. 
 
 
 
