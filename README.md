@@ -28,7 +28,7 @@ The dataset consists of:
 3. ** Model Training**:
    - Implement a `LogisticRegression` model.
    - Train the model using a pipeline that includes preprocessing.
-4. **🔮 Predictions**:
+4. ** Predictions**:
    - Predict outcomes for the test dataset.
    - Convert predictions back to categorical labels (`yes` or `no`).
    - Save predictions to `predictions.csv`.
@@ -77,12 +77,15 @@ The dataset consists of:
 
 ## 💬 Feedback
 We welcome feedback and suggestions for improving this project! Feel free to contribute by:
-- Reporting issues or bugs 🐞
-- Suggesting improvements 💡
-- Enhancing documentation 📖
-- Sharing your thoughts 💬
+- Reporting issues or bugs 
+- Suggesting improvements 
+- Enhancing documentation 
+- Sharing your thoughts 
 
-For any feedback, please reach out via email at **agarwal.harsh.2451513@gmail.com** or GitHub Issues. 
+For any feedback, please reach out via email:
+- Harsh Agarwal :	agarwal.harsh.2451513@gmail.com
+- Siva Maruthi  : sivamaruthi590@gmail.com
+- Shivangi Rai	 : raishivangi943@gmail.com
 
 ## 👥 Authors
 Developed by **Harsh Agarwal** and **Siva Maruthi** and **Shivangi Rai**. 
